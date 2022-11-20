@@ -24,6 +24,7 @@ darkmodeeverywhere
 defaultoptions
 defaultsettings
 deleteworldstotrash
+detailab
 ding
 dsurround
 durability101
