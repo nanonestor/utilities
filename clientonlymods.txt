@@ -1,5 +1,4 @@
 ambientenvironment
-appleskin
 auudio
 beehivetooltips
 betteradvancements
@@ -46,9 +45,6 @@ itemphysiclite
 itlt
 jecalculation
 jeienchantmentinfo
-jeiintegration
-jeresources
-jerintegration
 justenoughprofessions
 konkrete
 lagmeter
