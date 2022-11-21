@@ -52,7 +52,6 @@ lagmeter
 legendarytooltips
 lightoverlay
 lootbeams
-lostcities
 magnesium
 magnesium_extras
 massunbind
@@ -79,7 +78,6 @@ reauth
 reeses_sodium_options
 rubidium
 sdrp
-securitycraft
 shutupexperimentalsettings
 skinlayers3d
 smoothboot
