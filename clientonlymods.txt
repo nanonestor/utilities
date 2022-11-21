@@ -1,11 +1,14 @@
 ambientenvironment
+ambientsounds
 auudio
 beehivetooltips
 betteradvancements
 betteranimationscollection
 betterbiomeblend
 betterf3
+betterfoliage
 betterfpsdist
+bettermodsbutton
 betterpingdisplay
 betterthirdperson
 bhmenu
@@ -26,9 +29,11 @@ defaultsettings
 deleteworldstotrash
 detailab
 ding
+dogslie
 dsurround
 durability101
 dynamiclightsreforged
+eatinganimation
 enchdesc
 entitycollisionfpsfix
 entityculling
@@ -47,6 +52,7 @@ itlt
 jecalculation
 jeienchantmentinfo
 justenoughprofessions
+justzoom
 konkrete
 lagmeter
 legendarytooltips
@@ -57,6 +63,7 @@ magnesium_extras
 massunbind
 mcwwindows
 medievalmusic
+mjs_animations
 modelfix
 modnametooltip
 moreoverlays
@@ -74,6 +81,7 @@ oculus
 overloadedarmorbar
 packmenu
 pickupnotifier
+posture
 reauth
 reeses_sodium_options
 rubidium
@@ -85,3 +93,5 @@ tips
 tipsmod
 toastcontrol
 travelerstitles
+vanillazoom
+visuality
