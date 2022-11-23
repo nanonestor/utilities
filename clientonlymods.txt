@@ -109,7 +109,6 @@ lightoverlay
 llor
 loadmyresources
 lootbeams
-lootbeams
 magnesium
 magnesium_extras
 maptooltip
@@ -139,7 +138,6 @@ nopotionshift
 notenoughanimations
 oauth
 oculus
-omegamute
 omegamute
 overloadedarmorbar
 packmenu
