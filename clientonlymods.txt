@@ -23,6 +23,7 @@ bettermodsbutton
 betterpingdisplay
 betterthirdperson
 bettertitlescreen
+better_loading_screen
 bhmenu
 blur
 borderlesswindow
@@ -150,6 +151,7 @@ replanter
 resourcepackorganizer
 rpghud
 rubidium
+rubidium_extras
 rubidium_toolkit
 screenshotclipboard
 sdrp
