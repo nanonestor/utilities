@@ -114,7 +114,6 @@ magnesium_extras
 maptooltip
 massunbind
 mcbindtype
-mcwwindows
 medievalmusic
 merchantmarkers
 mightyarchitect
