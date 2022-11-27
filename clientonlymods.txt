@@ -178,6 +178,7 @@ tooltipscroller
 torchoptimizer
 totaldarkness
 toughnessbar
+transliterationlib
 travelerstitles
 vanillazoom
 visuality
