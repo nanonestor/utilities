@@ -123,7 +123,6 @@ modernworldcreation
 modnametooltip
 moreoverlays
 mousetweaks
-mrplibrary
 myserveriscompatible
 namepain
 neat
