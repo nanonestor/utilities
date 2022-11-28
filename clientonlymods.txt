@@ -10,6 +10,7 @@ authme
 autojoin
 auudio
 axolotlbucketfix
+backtools
 bannerunlimited
 beautifiedchatclient
 beehivetooltips
@@ -109,6 +110,7 @@ legendarytooltips
 lightoverlay
 llor
 loadmyresources
+lock_minecart_view
 lootbeams
 magnesium
 magnesium_extras
