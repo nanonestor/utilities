@@ -138,6 +138,7 @@ notenoughanimations
 oauth
 oculus
 omegamute
+optifine
 overloadedarmorbar
 packmenu
 panorama
