@@ -1,6 +1,7 @@
 advancementscreenshot
 ambientenvironment
 ambientsounds
+animatedrecipebook
 antighost
 anviltooltipmod
 armorhotswap
