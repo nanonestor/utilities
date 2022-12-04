@@ -180,6 +180,7 @@ toastcontrol
 toolswap
 tooltipscroller
 torchoptimizer
+torohealth
 totaldarkness
 toughnessbar
 transliterationlib
