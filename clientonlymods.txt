@@ -32,6 +32,7 @@ borderlesswindow
 brb
 bsvsb
 bwncr
+catalogue
 chat_heads
 chatstamps
 cherishedworlds
