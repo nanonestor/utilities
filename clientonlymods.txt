@@ -149,6 +149,7 @@ pickupnotifier
 posture
 reauth
 reeses_sodium_options
+renderlib
 replanter
 resourcepackorganizer
 rpghud
