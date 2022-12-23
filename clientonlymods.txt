@@ -27,6 +27,7 @@ betterthirdperson
 bettertitlescreen
 better_loading_screen
 bhmenu
+biomeinfo
 blur
 borderlesswindow
 brb
