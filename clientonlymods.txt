@@ -138,6 +138,8 @@ no_fog
 no_telemetry
 noautojump
 nopotionshift
+norecipebook
+norecipebookreborn
 notenoughanimations
 oauth
 oculus
