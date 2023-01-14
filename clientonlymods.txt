@@ -93,6 +93,7 @@ inventoryhud
 inventoryprofiles
 inventoryprofilesnext
 inventoryspam
+inventorytweaks
 itemborders
 itemphysiclite
 itemstitchingfix
