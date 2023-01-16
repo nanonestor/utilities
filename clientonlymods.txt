@@ -114,6 +114,7 @@ lightoverlay
 llor
 loadmyresources
 lock_minecart_view
+lod
 lootbeams
 magnesium
 magnesium_extras
