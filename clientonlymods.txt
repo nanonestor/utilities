@@ -81,6 +81,7 @@ firstpersonmod
 flickerfix
 fmextension_audio
 fogtweaker
+fpsreducer
 gamemenumodoption
 healthoverlay
 hiddenrecipebook
