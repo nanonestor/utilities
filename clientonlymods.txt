@@ -66,6 +66,7 @@ durability101
 durabilitytooltip
 durabilityviewer
 dynamiclightsreforged
+easiervillagertrading
 eatinganimation
 effective_fg
 enchantment_lore_forge
