@@ -49,6 +49,7 @@ combat_music
 ctov
 cullparticles
 custom_crosshair_mod
+custombackgrounds
 customcursormod
 customfov
 dannys_expansion
