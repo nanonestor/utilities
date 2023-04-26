@@ -154,6 +154,7 @@ packmenu
 panorama
 pickupnotifier
 posture
+presencefootsteps
 reauth
 reeses_sodium_options
 renderlib
