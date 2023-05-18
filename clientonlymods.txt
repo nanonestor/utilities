@@ -199,6 +199,7 @@ travelerstitles
 vanillazoom
 visuality
 voidfog
+waveycapes
 worldnamerandomizer
 worldtime
 wwta
