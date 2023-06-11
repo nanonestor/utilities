@@ -89,6 +89,7 @@ hiddenrecipebook
 hidehands
 highlighter
 horsestatsmod
+illuminations
 infinitemusic
 inventoryhotswap
 inventoryhud
@@ -156,6 +157,7 @@ panorama
 pickupnotifier
 posture
 presencefootsteps
+raised
 reauth
 reeses_sodium_options
 renderlib
