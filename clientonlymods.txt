@@ -131,6 +131,7 @@ mightyarchitect
 mjs_animations
 modelfix
 modernworldcreation
+modernstartupqol
 modnametooltip
 moreoverlays
 mousetweaks
