@@ -137,7 +137,6 @@ moreoverlays
 mousetweaks
 myserveriscompatible
 namepain
-nature_arise
 neat
 nebs
 nicephore
