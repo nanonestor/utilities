@@ -62,7 +62,6 @@ ding
 dogslie
 drippyloadingscreen
 dsurround
-dummy
 durability101
 durabilitytooltip
 durabilityviewer
@@ -208,3 +207,4 @@ waveycapes
 worldnamerandomizer
 worldtime
 wwta
+zzdummyzz
