@@ -36,6 +36,7 @@ bwncr
 chat_heads
 chatstamps
 cherishedworlds
+chunkanimator
 classicbar
 cleanview
 clear_skies
