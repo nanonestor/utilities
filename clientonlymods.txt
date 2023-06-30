@@ -47,6 +47,7 @@ connectedglass
 controllable
 controlling
 combat_music
+craftpresence
 ctov
 cullparticles
 custom_crosshair_mod
