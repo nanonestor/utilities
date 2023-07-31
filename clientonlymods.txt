@@ -32,6 +32,7 @@ biomeinfo
 blur
 borderlesswindow
 brb
+brightnessslider
 bsvsb
 bwncr
 chat_heads
