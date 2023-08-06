@@ -29,6 +29,7 @@ better_loading_screen
 bhmenu
 biggerchathistory
 biomeinfo
+biomemusic
 blur
 borderlesswindow
 brb
