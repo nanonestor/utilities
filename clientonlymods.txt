@@ -58,6 +58,7 @@ customcursormod
 customfov
 dannys_expansion
 darkmodeeverywhere
+deathstats
 defaultoptions
 defaultsettings
 deleteworldstotrash
