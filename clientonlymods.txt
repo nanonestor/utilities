@@ -92,6 +92,7 @@ fogtweaker
 fpsreducer
 gamemenumodoption
 healthoverlay
+helditemtooltips
 hiddenrecipebook
 hidehands
 highlighter
