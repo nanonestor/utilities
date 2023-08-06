@@ -45,6 +45,7 @@ cleanview
 clear_skies
 clickadv
 clienttweaks
+completionistsindex
 configured
 connectedglass
 controllable
