@@ -28,6 +28,7 @@ betterpingdisplay
 betterthirdperson
 bettertitlescreen
 better_loading_screen
+bhh
 bhmenu
 biggerchathistory
 biomeinfo
@@ -77,7 +78,9 @@ dsurround
 durability101
 durabilitytooltip
 durabilityviewer
+dynamiclights
 DynamicLights
+dynamiclightspatch
 DynamicLightsPatch
 dynamiclightsreforged
 easiervillagertrading
@@ -139,6 +142,7 @@ magnesium
 magnesium_extras
 maptooltip
 massunbind
+matmos
 mcbindtype
 mcinstanceloader
 medievalmusic
