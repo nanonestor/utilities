@@ -78,9 +78,7 @@ dsurround
 durability101
 durabilitytooltip
 durabilityviewer
-dynamiclights
 DynamicLights
-dynamiclightspatch
 DynamicLightsPatch
 dynamiclightsreforged
 easiervillagertrading
