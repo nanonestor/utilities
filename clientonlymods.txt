@@ -3,6 +3,7 @@ ambientenvironment
 ambientsounds
 animatedrecipebook
 antighost
+AntiqueAtlasOverlay
 anviltooltipmod
 armorhotswap
 armorpointspp
@@ -21,6 +22,7 @@ bettercontrols
 betterf3
 betterfoliage
 betterfpsdist
+BetterInvalidSession
 bettermodsbutton
 betterpingdisplay
 betterthirdperson
@@ -45,12 +47,13 @@ cleanview
 clear_skies
 clickadv
 clienttweaks
+combat_music
 completionistsindex
 configured
 connectedglass
 controllable
 controlling
-combat_music
+coretweaks
 craftpresence
 ctov
 cullparticles
@@ -58,11 +61,13 @@ custom_crosshair_mod
 custombackgrounds
 customcursormod
 customfov
+CustomMainMenu
 dannys_expansion
 darkmodeeverywhere
 deathstats
 defaultoptions
 defaultsettings
+defaultworldgenerator
 deleteworldstotrash
 detailab
 ding
@@ -72,6 +77,8 @@ dsurround
 durability101
 durabilitytooltip
 durabilityviewer
+DynamicLights
+DynamicLightsPatch
 dynamiclightsreforged
 easiervillagertrading
 eatinganimation
@@ -175,6 +182,7 @@ reeses_sodium_options
 renderlib
 replanter
 resourcepackorganizer
+ResourceLoader
 roughlyenoughprofessions
 rpghud
 rubidium
