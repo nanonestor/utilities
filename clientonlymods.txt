@@ -49,6 +49,7 @@ clear_skies
 clickadv
 clienttweaks
 combat_music
+compasscoords
 completionistsindex
 configured
 connectedglass
