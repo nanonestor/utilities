@@ -225,6 +225,7 @@ travelerstitles
 vanillazoom
 visuality
 voidfog
+watermedia
 waveycapes
 worldnamerandomizer
 worldtime
