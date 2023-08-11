@@ -132,6 +132,7 @@ lagmeter
 legendarytooltips
 lightoverlay
 lightspeed
+litematica
 llor
 loadmyresources
 lock_minecart_view
@@ -139,6 +140,7 @@ lod
 lootbeams
 magnesium
 magnesium_extras
+malilib
 maptooltip
 massunbind
 matmos
