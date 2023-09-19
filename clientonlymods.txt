@@ -157,6 +157,7 @@ moreoverlays
 mousetweaks
 myserveriscompatible
 namepain
+nbt_ac
 neat
 nebs
 nicephore
