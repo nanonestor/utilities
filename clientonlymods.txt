@@ -52,7 +52,6 @@ combat_music
 compasscoords
 completionistsindex
 configured
-connectedglass
 controllable
 controlling
 coretweaks
