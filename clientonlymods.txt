@@ -52,6 +52,7 @@ combat_music
 compasscoords
 completionistsindex
 configured
+connectedness
 controllable
 controlling
 coretweaks
@@ -89,6 +90,7 @@ enchdesc
 entitycollisionfpsfix
 entityculling
 entity_model_features
+entity_texture_features
 equipmentcompare
 extremesoundmuffler
 fallingleaves
@@ -186,6 +188,7 @@ presencefootsteps
 raised
 reauth
 reeses_sodium_options
+reforgium
 renderlib
 replanter
 resourcepackorganizer
