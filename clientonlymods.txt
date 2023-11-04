@@ -82,6 +82,7 @@ DynamicLightsPatch
 dynamiclightsreforged
 easiervillagertrading
 eatinganimation
+eeriemusic
 effective_fg
 enchantment_lore_forge
 enchdesc
