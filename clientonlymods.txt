@@ -88,6 +88,7 @@ enchantment_lore_forge
 enchdesc
 entitycollisionfpsfix
 entityculling
+entity_model_features
 equipmentcompare
 extremesoundmuffler
 fallingleaves
@@ -106,6 +107,7 @@ hidehands
 highlighter
 horsestatsmod
 illuminations
+immediatelyfast
 infinitemusic
 inventoryhotswap
 inventoryhud
