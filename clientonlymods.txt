@@ -193,6 +193,7 @@ renderlib
 replanter
 resourcepackorganizer
 ResourceLoader
+ryoamiclights
 roughlyenoughprofessions
 rpghud
 rubidium
@@ -214,6 +215,7 @@ smoothboot
 sndctrl
 sound_physics_remastered
 sounddeviceoptions
+spruceui
 sulfuric
 tabinventory
 tconplanner
