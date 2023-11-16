@@ -141,6 +141,7 @@ loadmyresources
 lock_minecart_view
 lod
 lootbeams
+loot_journal
 magnesium
 magnesium_extras
 malilib
@@ -186,6 +187,7 @@ pokepatch
 posture
 presencefootsteps
 raised
+realcamera
 reauth
 reeses_sodium_options
 reforgium
