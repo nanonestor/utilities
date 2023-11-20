@@ -99,6 +99,7 @@ farsight_view
 firstpersonmod
 flickerfix
 fmextension_audio
+fmextension_video
 fogtweaker
 fpsreducer
 gamemenumodoption
