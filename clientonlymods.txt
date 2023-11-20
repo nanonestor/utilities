@@ -95,6 +95,7 @@ equipmentcompare
 extremesoundmuffler
 fallingleaves
 fancymenu
+fancymenu_video
 farsight_view
 firstpersonmod
 flickerfix
