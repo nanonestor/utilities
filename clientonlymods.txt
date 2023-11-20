@@ -92,6 +92,9 @@ entityculling
 entity_model_features
 entity_texture_features
 equipmentcompare
+extra_keybinds
+extraextrakeybinds
+extrakeybindsforge
 extremesoundmuffler
 fallingleaves
 fancymenu
