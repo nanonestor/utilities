@@ -85,6 +85,10 @@ easiervillagertrading
 eatinganimation
 eeriemusic
 effective_fg
+embeddium
+embeddiumextension
+embeddiumextras
+embeddiumplus
 enchantment_lore_forge
 enchdesc
 entitycollisionfpsfix
@@ -181,6 +185,7 @@ norecipebook
 norecipebookreborn
 notenoughanimations
 oauth
+obsidianui
 oculus
 omegamute
 optifine
@@ -204,8 +209,10 @@ ryoamiclights
 roughlyenoughprofessions
 rpghud
 rubidium
+rubidium_extra
 rubidium_extras
 rubidium_toolkit
+ryoamiclights
 screenshotclipboard
 sdrp
 sf
@@ -226,6 +233,7 @@ spruceui
 sulfuric
 tabinventory
 tconplanner
+textrues_embeddium_options
 tips
 tipsmod
 tipthescales
