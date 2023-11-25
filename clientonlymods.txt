@@ -51,7 +51,6 @@ clienttweaks
 combat_music
 compasscoords
 completionistsindex
-configured
 connectedness
 controllable
 controlling
