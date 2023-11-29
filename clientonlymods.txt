@@ -245,6 +245,7 @@ totaldarkness
 toughnessbar
 transliterationlib
 travelerstitles
+twitchintegration
 vanillazoom
 visuality
 voidfog
