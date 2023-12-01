@@ -254,4 +254,5 @@ waveycapes
 worldnamerandomizer
 worldtime
 wwta
+yungsmenutweaks
 zzdummyzz
