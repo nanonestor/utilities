@@ -99,6 +99,7 @@ extra_keybinds
 extraextrakeybinds
 extrakeybindsforge
 extremesoundmuffler
+fadingnightvision
 fallingleaves
 fancymenu
 fancymenu_video
