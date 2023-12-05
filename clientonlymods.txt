@@ -59,6 +59,7 @@ craftpresence
 cullparticles
 custom_crosshair_mod
 custombackgrounds
+customcredits
 customcursormod
 customfov
 CustomMainMenu
