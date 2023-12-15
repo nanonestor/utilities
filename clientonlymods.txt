@@ -73,6 +73,7 @@ customfov
 CustomMainMenu
 dannys_expansion
 darkmodeeverywhere
+darkness
 deathstats
 defaultoptions
 defaultsettings
