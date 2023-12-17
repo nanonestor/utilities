@@ -276,6 +276,7 @@ replanter
 replaymod
 resourcepackorganizer
 ResourceLoader
+rrls
 ryoamiclights
 rocknroller
 roughlyenoughprofessions
