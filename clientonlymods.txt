@@ -274,6 +274,7 @@ reforgium
 renderlib
 replanter
 replaymod
+resourcify
 resourcepackorganizer
 ResourceLoader
 rrls
