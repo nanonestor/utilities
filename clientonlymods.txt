@@ -1,4 +1,4 @@
-advancements_tracker
+ohadvancements_tracker
 advancementscreenshot
 ambientenvironment
 ambientsounds
@@ -214,6 +214,7 @@ lock_minecart_view
 lod
 lootbeams
 loot_journal
+LumySkinPatch
 magnesium
 magnesium_extras
 make_bubbles_pop
