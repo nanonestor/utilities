@@ -47,6 +47,7 @@ biomeinfo
 biomemusic
 blur
 boatiview
+bocchium
 borderlesswindow
 brb
 brightnessslider
