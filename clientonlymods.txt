@@ -1,4 +1,4 @@
-ohadvancements_tracker
+advancements_tracker
 advancementscreenshot
 ambientenvironment
 ambientsounds
