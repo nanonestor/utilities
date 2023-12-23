@@ -115,6 +115,7 @@ dynamicfps
 DynamicLights
 DynamicLightsPatch
 dynamiclightsreforged
+dynmus
 ears
 easiervillagertrading
 eatinganimation
@@ -130,6 +131,7 @@ enchantment_lore_forge
 enchantment_reveal
 enchdesc
 endsky
+enhancedblockentities
 entitycollisionfpsfix
 entityculling
 entity_model_features
@@ -141,6 +143,7 @@ extendedclouds
 extra_keybinds
 extraextrakeybinds
 extrakeybindsforge
+extrasounds
 extremesoundmuffler
 fadingnightvision
 fallingleaves
@@ -168,6 +171,7 @@ gpumemleakfix
 guiclock
 guicompass
 guifollowers
+harvests
 healthindicatortxf
 healthoverlay
 helditemtooltips
@@ -188,6 +192,7 @@ inventoryprofiles
 inventoryprofilesnext
 inventoryspam
 inventorytweaks
+irisflw
 itemborders
 itemphysiclite
 itemsdontbreak
@@ -233,9 +238,11 @@ modelfix
 modernworldcreation
 modernstartupqol
 modnametooltip
+mods_optimizer
 more_slot_swap
 moreoverlays
 mousetweaks
+musicdr
 musicmanager
 myserveriscompatible
 namepain
@@ -308,6 +315,8 @@ sndctrl
 sound_physics_remastered
 sounddeviceoptions
 spruceui
+stylisheffects
+suggestionproviderfix
 sulfuric
 tabinventory
 tconplanner
@@ -334,5 +343,6 @@ waveycapes
 worldnamerandomizer
 worldtime
 wwta
+yeetusexperimentus
 yungsmenutweaks
 zzdummyzz
