@@ -138,6 +138,7 @@ entity_model_features
 entity_texture_features
 essential
 equipmentcompare
+euphoria_patcher
 experimentalsettingsdisabler
 extendedclouds
 extra_keybinds
