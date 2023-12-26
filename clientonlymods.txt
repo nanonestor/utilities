@@ -92,7 +92,6 @@ customcursormod
 customfov
 CustomMainMenu
 dailydad
-dannys_expansion
 darkmodeeverywhere
 darkness
 deathstats
