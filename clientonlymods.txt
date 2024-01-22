@@ -270,7 +270,6 @@ packmenu
 panorama
 persistentinventorysearch
 physicsmod
-pickupnotifier
 pokepatch
 posture
 presencefootsteps
