@@ -306,6 +306,7 @@ signtools
 simplemovablegrid
 simplerpc
 skinlayers3d
+skybox
 sodium
 sodiumextra
 spititout
