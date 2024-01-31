@@ -91,6 +91,7 @@ customcredits
 customcursormod
 customfov
 CustomMainMenu
+customsplashscreen
 dailydad
 darkmodeeverywhere
 darkness
