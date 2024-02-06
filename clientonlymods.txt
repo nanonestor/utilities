@@ -232,6 +232,7 @@ matmos
 mcbindtype
 mcinstanceloader
 medievalmusic
+melody
 merchantmarkers
 mightyarchitect
 mjs_animations
