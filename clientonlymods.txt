@@ -286,6 +286,7 @@ replaymod
 resourcify
 resourcepackorganizer
 ResourceLoader
+resourcepackoverrides
 rrls
 ryoamiclights
 rocknroller
