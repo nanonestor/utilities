@@ -18,6 +18,7 @@ auudio
 axolotlbucketfix
 backtools
 bannerunlimited
+bao
 bbs
 beautifiedchatclient
 beehivetooltips
