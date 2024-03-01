@@ -325,6 +325,7 @@ sulfuric
 tabinventory
 tconplanner
 textrues_embeddium_options
+timestamp_chat
 tips
 tipsmod
 tipthescales
