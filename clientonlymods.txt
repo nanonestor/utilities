@@ -300,6 +300,7 @@ rubidium_extras
 rubidium_toolkit
 ryoamiclights
 screenshotclipboard
+screenshot_viewer
 sdrp
 sf
 shouldersurfing
@@ -311,6 +312,7 @@ simplemovablegrid
 simplerpc
 skinlayers3d
 skybox
+smoothswapping
 sodium
 sodiumextra
 spititout
