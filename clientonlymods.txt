@@ -103,6 +103,7 @@ defaultworldgenerator
 deleteworldstotrash
 detailab
 ding
+distanthorizons
 dogslie
 donttouchme
 drawerfps
