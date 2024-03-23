@@ -60,6 +60,7 @@ chat_heads
 chatstamps
 cherishedworlds
 chunkanimator
+citresewn
 classicbar
 cleanview
 clear_skies
