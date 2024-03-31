@@ -238,6 +238,7 @@ medievalmusic
 melody
 merchantmarkers
 mightyarchitect
+miniutilities
 mjs_animations
 modelfix
 modernworldcreation
