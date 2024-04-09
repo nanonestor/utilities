@@ -335,6 +335,7 @@ timestamp_chat
 tips
 tipsmod
 tipthescales
+tlib
 toastcontrol
 toolswap
 tooltipscroller
