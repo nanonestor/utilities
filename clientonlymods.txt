@@ -275,6 +275,7 @@ optifine
 overloadedarmorbar
 packmenu
 panorama
+panorama_screens
 persistentinventorysearch
 physicsmod
 pokepatch
