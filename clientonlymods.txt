@@ -184,6 +184,7 @@ hiddenrecipebook
 hidehands
 highlighter
 horsestatsmod
+ias
 iknowwhatimdoing
 illuminations
 immediatelyfast
