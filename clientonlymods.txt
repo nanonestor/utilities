@@ -215,7 +215,6 @@ justenoughprofessions
 justzoom
 keymap
 keywizard
-konkrete
 lagmeter
 legendarytooltips
 lightoverlay
@@ -273,11 +272,14 @@ oauth
 obsidianui
 oculus
 omegamute
+optcheck
 optifine
+oskb
 overloadedarmorbar
 packmenu
 panorama
 panorama_screens
+paperdoll
 persistentinventorysearch
 physicsmod
 pokepatch
@@ -310,6 +312,7 @@ screenshotclipboard
 screenshot_viewer
 sdrp
 sf
+sheepconsistencyforge
 shouldersurfing
 shuffle
 shulkertooltip
