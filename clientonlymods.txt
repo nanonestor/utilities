@@ -284,6 +284,7 @@ persistentinventorysearch
 physicsmod
 pokepatch
 posture
+potiondescriptions
 presencefootsteps
 raised
 realcamera
