@@ -240,6 +240,7 @@ medievalmusic
 melody
 merchantmarkers
 mightyarchitect
+mindfuldarkness
 miniutilities
 mjs_animations
 modelfix
@@ -351,6 +352,7 @@ torohealth
 totaldarkness
 toughnessbar
 transliterationlib
+transparent
 travelerstitles
 tweakerge
 twitchintegration
@@ -362,6 +364,7 @@ waveycapes
 worldnamerandomizer
 worldtime
 wwta
+xenon
 yeetusexperimentus
 yungsmenutweaks
 zume
