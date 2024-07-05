@@ -271,6 +271,7 @@ notenoughanimations
 notes
 oauth
 obsidianui
+ocrenderfix_sodium
 oculus
 omegamute
 optcheck
