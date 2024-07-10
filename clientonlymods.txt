@@ -96,6 +96,7 @@ customfov
 CustomMainMenu
 customsplashscreen
 dailydad
+DamageIndicatorsMod
 darkmodeeverywhere
 darkness
 deathstats
