@@ -265,6 +265,7 @@ no_fog
 no_telemetry
 noautojump
 nolancheating
+nolijium_common
 nopotionshift
 norecipebook
 norecipebookreborn
