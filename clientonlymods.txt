@@ -1,5 +1,6 @@
 advancements_tracker
 advancementscreenshot
+agricraftoptifinecompat
 ambientenvironment
 ambientsounds
 animatedrecipebook
