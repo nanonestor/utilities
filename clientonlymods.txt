@@ -288,6 +288,7 @@ paperdoll
 persistentinventorysearch
 physicsmod
 pokepatch
+polytone
 posture
 potiondescriptions
 presencefootsteps
