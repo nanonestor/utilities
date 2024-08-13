@@ -20,6 +20,7 @@ axolotlbucketfix
 backtools
 bannerunlimited
 bao
+battlemusic
 bbs
 bcfp
 beautifiedchatclient
@@ -138,6 +139,7 @@ enchantment_lore_forge
 enchantment_reveal
 enchdesc
 endsky
+enhanced_boss_bars
 enhancedblockentities
 entitycollisionfpsfix
 entityculling
