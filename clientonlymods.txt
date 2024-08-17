@@ -196,6 +196,7 @@ iknowwhatimdoing
 illuminations
 immediatelyfast
 infinitemusic
+ingameinfoxml
 invmove
 invmove_compat
 inventoryhotswap
