@@ -103,6 +103,7 @@ darkmodeeverywhere
 darkness
 deathstats
 defaultoptions
+defaultserverlist
 defaultsettings
 defaultworldgenerator
 deleteworldstotrash
