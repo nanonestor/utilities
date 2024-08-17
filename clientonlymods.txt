@@ -102,6 +102,7 @@ DamageIndicatorsMod
 darkmodeeverywhere
 darkness
 deathstats
+defaultkeys
 defaultoptions
 defaultserverlist
 defaultsettings
