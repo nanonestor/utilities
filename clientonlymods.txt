@@ -376,6 +376,7 @@ visuality
 voidfog
 watermedia
 waveycapes
+wi-zoom
 worldnamerandomizer
 worldtime
 wwta
