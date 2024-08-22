@@ -366,6 +366,7 @@ torchoptimizer
 torohealth
 totaldarkness
 toughnessbar
+tp_shooting
 transliterationlib
 transparent
 travelerstitles
