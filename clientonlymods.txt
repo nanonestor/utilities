@@ -307,6 +307,7 @@ realcamera
 reauth
 rebindnarrator
 reeses_sodium_options
+reforgedplaymod
 reforgium
 renderlib
 replanter
