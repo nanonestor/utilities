@@ -184,6 +184,7 @@ fullbrightnesstoggle
 fw
 gamemenumodoption
 gamemenuremovegfarb
+geckoanimfix
 gpumemleakfix
 guiclock
 guicompass
