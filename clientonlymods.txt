@@ -213,6 +213,7 @@ inventoryprofiles
 inventoryprofilesnext
 inventoryspam
 inventorytweaks
+iris
 irisflw
 itemborders
 itemphysiclite
@@ -344,6 +345,7 @@ skinlayers3d
 skybox
 smoothswapping
 sodium
+sodium_extra
 sodiumextra
 spititout
 smoothboot
