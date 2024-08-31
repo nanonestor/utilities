@@ -62,6 +62,7 @@ brightnessslider
 bsvsb
 bwncr
 cameranoclip
+cavedust
 charmonium
 chat_heads
 chatstamps
