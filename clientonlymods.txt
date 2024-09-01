@@ -59,6 +59,7 @@ bocchium
 borderlesswindow
 brb
 brightnessslider
+brute_force_rendering_culling
 bsvsb
 bwncr
 cameranoclip
