@@ -370,6 +370,7 @@ smoothswapping
 sndctrl
 sodium
 sodium_extra
+sodiumdynamiclights
 sodiumextra
 sound_physics_remastered
 sounddeviceoptions
