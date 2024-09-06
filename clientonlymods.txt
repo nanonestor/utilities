@@ -374,6 +374,7 @@ sodiumdynamiclights
 sodiumextra
 sound_physics_remastered
 sounddeviceoptions
+sounds
 spititout
 spruceui
 sspb
