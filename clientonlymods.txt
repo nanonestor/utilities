@@ -48,6 +48,7 @@ betterloadingscreen
 bettermodsbutton
 betterpingdisplay
 bettersigns
+bettersmithingtable
 bettertaskbar
 betterthirdperson
 bettertitlescreen
@@ -121,6 +122,7 @@ defaultserverlist
 defaultsettings
 defaultworldgenerator
 deleteworldstotrash
+defaultworldtype
 detailab
 ding
 distanthorizons
@@ -278,6 +280,7 @@ mindfuldarkness
 minecraftcapes
 miniutilities
 mjs_animations
+mobplaques
 modelfix
 modernstartupqol
 modernworldcreation
@@ -296,6 +299,7 @@ nebs
 nicephore
 nimble
 no_fog
+no_nv_flash
 no_telemetry
 noautojump
 nolancheating
@@ -314,6 +318,7 @@ omegamute
 optcheck
 optifine
 oskb
+overflowingbars
 overloadedarmorbar
 packmenu
 panorama
@@ -333,6 +338,7 @@ realcamera
 reauth
 rebind_narrator
 rebindnarrator
+reblured
 reeses_sodium_options
 reforgedplaymod
 reforgium
