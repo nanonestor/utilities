@@ -410,6 +410,7 @@ tp_shooting
 transliterationlib
 transparent
 travelerstitles
+traveloptics
 tweakerge
 twitchintegration
 vanillazoom
