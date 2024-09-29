@@ -424,6 +424,7 @@ worldnamerandomizer
 worldtime
 wwta
 wynntils
+xaeroplus
 xenon
 yeetusexperimentus
 yungsmenutweaks
