@@ -1,3 +1,4 @@
+a_good_place
 advancements_tracker
 advancementscreenshot
 agricraftoptifinecompat
@@ -62,6 +63,7 @@ boatiview
 boatiview
 bocchium
 borderlesswindow
+bounced
 brb
 brightnessslider
 brute_force_rendering_culling
@@ -112,6 +114,7 @@ customfov
 CustomMainMenu
 customsplashscreen
 dailydad
+damageindicatorreborn
 DamageIndicatorsMod
 darkmodeeverywhere
 darkness
@@ -170,6 +173,7 @@ euphoria_patcher
 evergreenhud
 exordium
 experimentalsettingsdisabler
+explosiveenhancement
 extendedclouds
 extra_keybinds
 extraextrakeybinds
@@ -280,6 +284,7 @@ mindfuldarkness
 minecraftcapes
 miniutilities
 mjs_animations
+mobhealthbar
 mobplaques
 modelfix
 modernstartupqol
@@ -311,6 +316,8 @@ notenoughanimations
 notes
 oauth
 ob_tooltips
+obscure_tooltips
+obscure_tooltips_fix
 obsidianui
 ocrenderfix_sodium
 oculus
@@ -324,11 +331,13 @@ packmenu
 panorama
 panorama_screens
 paperdoll
+particular
 persistentinventorysearch
 physicsmod
 pickupnotifier
 pokepatch
 polytone
+pop
 posture
 potiondescriptions
 presencefootsteps
