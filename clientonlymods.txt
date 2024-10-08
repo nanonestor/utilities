@@ -388,6 +388,8 @@ sodium
 sodium_extra
 sodiumdynamiclights
 sodiumextra
+sodiumextras
+sodiumoptionsapi
 sound_physics_remastered
 sounddeviceoptions
 sounds
