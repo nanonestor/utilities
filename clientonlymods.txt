@@ -11,7 +11,6 @@ AntiqueAtlasOverlay
 anviltooltipmod
 armorhotswap
 armorpointspp
-athena
 attributetooltipfix
 audio-extension-for-fancymenu
 authme
@@ -144,6 +143,7 @@ dynamicfps
 DynamicLights
 DynamicLightsPatch
 dynamiclightsreforged
+dynamic_fps
 dynmus
 ears
 easiervillagertrading
@@ -154,6 +154,7 @@ embeddium
 embeddiumextension
 embeddiumextras
 embeddiumplus
+embeddium_extra
 emiffect
 emitrades
 emojitype
