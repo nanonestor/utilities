@@ -43,6 +43,7 @@ betterdogs_dtn
 betterf3
 betterfoliage
 betterfpsdist
+bettergrass
 BetterInvalidSession
 betterloadingscreen
 bettermodsbutton
@@ -374,6 +375,7 @@ ryoamiclights
 screenshot_viewer
 screenshotclipboard
 sdrp
+seasonhud
 sf
 sheepconsistencyforge
 shouldersurfing
