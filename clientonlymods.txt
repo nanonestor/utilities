@@ -102,6 +102,7 @@ craftpresence
 creative_experience
 ctrlq
 ctrlq-forge
+cubes_without_borders
 cullleaves
 culllessleaves
 cullparticles
@@ -387,6 +388,7 @@ simplemovablegrid
 simplerpc
 skinlayers3d
 skybox
+slotify
 smoothboot
 smoothswapping
 sndctrl
