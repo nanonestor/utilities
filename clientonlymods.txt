@@ -87,6 +87,7 @@ clearwater
 clickadv
 clientcrafting
 clienttweaks
+cobblemonupdatedenhanced
 colorfulhearts
 combat_music
 compasscoords
