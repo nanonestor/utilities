@@ -367,6 +367,7 @@ resourcepackoverrides
 resourcify
 rocknroller
 roughlyenoughprofessions
+rgp_client
 rpghud
 rrls
 rubidium
