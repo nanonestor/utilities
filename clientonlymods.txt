@@ -295,6 +295,7 @@ lootbeams
 lucent
 LumySkinPatch
 macrocraft
+mafglib
 magnesium
 magnesium_extras
 make_bubbles_pop
