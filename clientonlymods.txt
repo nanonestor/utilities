@@ -258,7 +258,6 @@ inventorytabs
 inventorytweaks
 invmove
 invmove_compat
-invtweaks
 iris
 irisflw
 iseelava
