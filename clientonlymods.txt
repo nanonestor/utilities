@@ -159,6 +159,7 @@ DynamicLightsPatch
 dynamiclightsreforged
 dynamic_fps
 dynmus
+e4mc_minecraft
 ears
 easiervillagertrading
 eatinganimation
