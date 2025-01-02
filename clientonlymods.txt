@@ -476,6 +476,7 @@ visuality
 voidfog
 watermedia
 waveycapes
+waymaker
 whats_that_slot
 wi-zoom
 worldnamerandomizer
