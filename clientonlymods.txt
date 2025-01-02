@@ -52,6 +52,8 @@ betterpingdisplay
 bettersigns
 bettersmithingtable
 bettertaskbar
+betterthanbunnies
+betterthanllamas
 betterthirdperson
 bettertitlescreen
 bhh
@@ -110,6 +112,7 @@ coretweaks
 craftify
 craftpresence
 creative_experience
+crop_marker
 ctrlq
 ctrlq-forge
 cubes_without_borders
