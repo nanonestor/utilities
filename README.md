@@ -4,6 +4,6 @@ The **clientonlymods.txt** file here is provided as a curated list to help aid s
 
 Many mods are forks and share the same modID, this makes the list using modIDs fairly efficient.  Filenames can change but the modIDs inside will remain.  
 
-This curated list was created to for the ['Universalator'](https://github.com/nanonestor/universalator/wiki) server management script but is available for anyone to obtain for their own project's use via github raw download, etc.  
+This curated list was created for use of the ['Universalator'](https://github.com/nanonestor/universalator/wiki) server management script but is available for anyone to obtain for their own project's use via github raw download, etc.  
 
 - For any additions / removals / errors please create either a pull request or submit an github issues ticket, thanks!  
