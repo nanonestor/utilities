@@ -12,6 +12,7 @@ AntiqueAtlasOverlay
 anviltooltipmod
 armorhotswap
 armorpointspp
+athena
 attributetooltipfix
 audio-extension-for-fancymenu
 authme
