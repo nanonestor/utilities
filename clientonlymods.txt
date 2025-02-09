@@ -317,6 +317,7 @@ merchantmarkers
 mightyarchitect
 mindfuldarkness
 minecraftcapes
+minemenu
 miniutilities
 mjs_animations
 mobhealthbar
