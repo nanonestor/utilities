@@ -12,6 +12,7 @@ AntiqueAtlasOverlay
 anviltooltipmod
 armorhotswap
 armorpointspp
+asteorbar
 attributetooltipfix
 audio-extension-for-fancymenu
 authme
