@@ -39,6 +39,7 @@ betteranimalmodels
 betteranimationscollection
 betterbeds
 betterbiomeblend
+betterclouds
 bettercontrols
 bettercrashes
 betterdogs_dtn
