@@ -171,6 +171,7 @@ easiervillagertrading
 eatinganimation
 eeriemusic
 effective_fg
+effectsleft
 embeddium
 embeddiumextension
 embeddiumextras
@@ -277,6 +278,7 @@ itlt
 jecalculation
 jeed
 jeienchantmentinfo
+jumpoverfences
 justenoughbeacons
 justenoughprofessions
 justzoom
