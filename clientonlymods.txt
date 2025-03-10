@@ -230,6 +230,7 @@ forgetmechunk
 fpsreducer
 freecam
 fullbrightnesstoggle
+fusion
 fw
 gamemenumodoption
 gamemenuremovegfarb
