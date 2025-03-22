@@ -191,6 +191,7 @@ enhanced_boss_bars
 enhancedblockentities
 entity_model_features
 entity_pin_cushions
+entity_sound_features
 entity_texture_features
 entitycollisionfpsfix
 entityculling
@@ -488,6 +489,7 @@ waymaker
 whats_that_slot
 wi-zoom
 worldnamerandomizer
+world_host
 worldtime
 wwta
 wynntils
