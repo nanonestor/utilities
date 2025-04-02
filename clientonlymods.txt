@@ -278,6 +278,7 @@ itemsdontbreak
 itemstitchingfix
 itemzoom
 itlt
+jeargh
 jecalculation
 jeed
 jeienchantmentinfo
