@@ -229,6 +229,7 @@ fogtweaker
 forgeautofish
 forgematica
 forgetmechunk
+fpsoptimizer
 fpsreducer
 freecam
 fullbrightnesstoggle
