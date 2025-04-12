@@ -393,6 +393,7 @@ posture
 potiondescriptions
 presencefootsteps
 quinnsclickthrough
+rainbows
 raised
 reactivemusic
 realcamera
