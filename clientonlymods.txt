@@ -459,6 +459,7 @@ stickykeys
 stylisheffects
 suggestionproviderfix
 sulfuric
+sweet_calamity
 tabinventory
 tconplanner
 textbook
