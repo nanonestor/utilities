@@ -82,6 +82,7 @@ cameranoclip
 cavedust
 charmonium
 chat_heads
+chatplus
 chatstamps
 chatting
 chattoggle
