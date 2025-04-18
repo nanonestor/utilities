@@ -336,6 +336,7 @@ mobhealthbar
 mobplaques
 modelfix
 modernstartupqol
+modernui
 modernworldcreation
 modnametooltip
 mods_optimizer
