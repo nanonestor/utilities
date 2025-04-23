@@ -18,6 +18,7 @@ audio-extension-for-fancymenu
 authme
 auto-third-person
 autojoin
+autotools
 auudio
 axolotlbucketfix
 backtools
