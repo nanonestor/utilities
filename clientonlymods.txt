@@ -19,6 +19,7 @@ authme
 auto-third-person
 autojoin
 autotools
+autowalk
 auudio
 axolotlbucketfix
 backtools
@@ -187,6 +188,7 @@ emojitype
 enchantment_lore_forge
 enchantment_reveal
 enchantmentinfo
+enchantmentlevelcapindicator
 enchantmentrequirements
 enchdesc
 enchsort
@@ -249,6 +251,7 @@ harvests
 healthindicatortxf
 healthoverlay
 helditemtooltips
+hennyfullbright
 hiddenrecipebook
 hidehands
 highlight
@@ -352,8 +355,10 @@ musicmanager
 myserveriscompatible
 namepain
 nbt_ac
+nbt_glint
 neat
 nebs
+nemos_inventory_sorting
 nicephore
 nimble
 no_fog
@@ -430,6 +435,7 @@ screenshot_viewer
 screenshotclipboard
 sdrp
 seasonhud
+serilumsclientbundle
 sf
 sheepconsistencyforge
 shouldersurfing
@@ -445,6 +451,7 @@ skybox
 slotify
 slotlock
 smoothboot
+smoothcameramovement
 smoothswapping
 sndctrl
 sodium
@@ -475,6 +482,7 @@ tipsmod
 tipthescales
 tlib
 toadlib
+too_many_entities
 toolstats
 toolswap
 tooltipscroller
