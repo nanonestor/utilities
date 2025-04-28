@@ -436,6 +436,7 @@ screenshotclipboard
 sdrp
 seasonhud
 serilumsclientbundle
+seriousplayeranimations
 sf
 sheepconsistencyforge
 shouldersurfing
