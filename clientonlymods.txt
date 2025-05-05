@@ -227,6 +227,7 @@ fbp
 feytweaks
 figura
 firstpersonmod
+flerovium
 flickerfix
 fmextension_audio
 fmextension_video
