@@ -374,6 +374,7 @@ norecipebook
 norecipebookreborn
 notenoughanimations
 notes
+now_playing
 numerical_durability
 oauth
 ob_tooltips
