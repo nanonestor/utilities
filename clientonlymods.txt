@@ -349,6 +349,7 @@ modnametooltip
 mods_optimizer
 mod_menu
 more_slot_swap
+moremcmeta_emissive_plugin
 moreoverlays
 mousekeyinventoryfix
 mousetweaks
@@ -444,6 +445,7 @@ sf
 sheepconsistencyforge
 shouldersurfing
 shuffle
+shulkerboxtooltip
 shulkertooltip
 shutupexperimentalsettings
 signtools
@@ -454,6 +456,7 @@ skinlayers3d
 skybox
 slotify
 slotlock
+smithingtemplateviewer
 smoothboot
 smoothcameramovement
 smoothswapping
