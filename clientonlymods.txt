@@ -418,6 +418,7 @@ reeses_sodium_options
 reforgedplaymod
 reforgium
 renderlib
+renderscale
 replanter
 replaymod
 ResourceLoader
