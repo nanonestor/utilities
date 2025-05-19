@@ -1,6 +1,6 @@
 # Minecraft 'Client side' modID list  
 
-The **clientonlymods.txt** file here is provided as a curated list to help aid sorting Minecraft Java edition mods written for the Forge and Neoforge modloader systems.  It is supposed to **only** contain modIDs for mods which are client-side by design and have no added server side functionalies if placed server side.  
+The **clientonlymods.txt** file here is provided as a curated list to help aid sorting Minecraft Java edition mods written for the Forge and Neoforge modloader systems.  It is supposed to **only** contain modIDs for mods which are client-side by design and have no added server side functionalities if placed server side.  
 
 - A **clientonlymods.json** is published here also with the same list in JSON format with the name:value of 'modids' inside.
 
