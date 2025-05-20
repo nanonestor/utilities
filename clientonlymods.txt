@@ -190,6 +190,7 @@ enchantment_reveal
 enchantmentinfo
 enchantmentlevelcapindicator
 enchantmentrequirements
+enchanttips
 enchdesc
 enchsort
 endsky
@@ -250,6 +251,7 @@ guiclock
 guicompass
 guifollowers
 harvests
+healthindicators
 healthindicatortxf
 healthoverlay
 helditemtooltips
