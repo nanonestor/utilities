@@ -110,6 +110,7 @@ compasscoords
 completionistsindex
 concentration
 connectedness
+continuity
 controlify
 controllable
 controlling
@@ -505,7 +506,6 @@ tradeenchantmentdisplay
 transliterationlib
 transparent
 travelerstitles
-traveloptics
 tweakerge
 twitchintegration
 vanillazoom
