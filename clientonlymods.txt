@@ -515,6 +515,7 @@ watermedia
 waveycapes
 waymaker
 whats_that_slot
+wi_zoom
 wi-zoom
 worldnamerandomizer
 world_host
@@ -526,4 +527,3 @@ xenon
 yeetusexperimentus
 yungsmenutweaks
 zume
-zzdummyzz
