@@ -404,7 +404,6 @@ pickupnotifier
 picturesign
 pokepatch
 polytone
-pop
 posture
 potiondescriptions
 presencefootsteps
