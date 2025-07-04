@@ -417,6 +417,7 @@ rebind_narrator
 rebindnarrator
 reblured
 reeses_sodium_options
+reflex
 reforgedplaymod
 reforgium
 renderlib
