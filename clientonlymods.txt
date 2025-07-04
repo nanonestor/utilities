@@ -436,6 +436,7 @@ rubidium
 rubidium_extra
 rubidium_extras
 rubidium_toolkit
+ruokmod
 ryoamiclights
 scoreboardtweaks
 screenshot_viewer
@@ -496,6 +497,7 @@ too_many_entities
 toolstats
 toolswap
 tooltipscroller
+toomanykeybinds
 torchoptimizer
 torohealth
 totaldarkness
