@@ -35,6 +35,7 @@ beehivetooltips
 beem_forge
 better-animations-collection
 better_loading_screen
+better_quest_popup
 BetterAchievements
 betteradvancements
 betteranimalmodels
@@ -55,6 +56,7 @@ bettermodsbutton
 betterpingdisplay
 bettersigns
 bettersmithingtable
+bettertags
 bettertaskbar
 betterthanbunnies
 betterthanllamas
@@ -120,7 +122,9 @@ coordinatesdisplay
 coretweaks
 craftify
 craftpresence
+crash_assistant
 creative_experience
+creativetabsearch
 crop_marker
 ctrlq
 ctrlq-forge
@@ -171,6 +175,7 @@ DynamicLights
 DynamicLightsPatch
 dynamiclightsreforged
 dynamic_fps
+dynamic_resource_bars
 dynmus
 e4mc_minecraft
 ears
@@ -224,6 +229,7 @@ fancychests
 fancychunks
 fancymenu
 fancymenu_video
+fancyoutline
 farsight_view
 FastCraft
 fbp
@@ -411,6 +417,7 @@ presencefootsteps
 quinnsclickthrough
 rainbows
 raised
+randomworldname
 reactivemusic
 realcamera
 reauth
@@ -479,6 +486,7 @@ sounds
 spititout
 spruceui
 sspb
+statuseffectbars
 stickykeys
 stylisheffects
 suggestionproviderfix
@@ -514,6 +522,7 @@ twitchintegration
 vanillazoom
 visuality
 voidfog
+wakes
 watermedia
 waveycapes
 waymaker
