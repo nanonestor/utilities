@@ -407,6 +407,7 @@
     "panorama",
     "panorama_screens",
     "paperdoll",
+    "perception",
     "persistentinventorysearch",
     "physicsmod",
     "pickupnotifier",
@@ -542,4 +543,5 @@
     "zume"
   ]
 }
+
 
