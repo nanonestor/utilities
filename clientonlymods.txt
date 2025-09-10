@@ -10,6 +10,7 @@ animatica
 antighost
 AntiqueAtlasOverlay
 anviltooltipmod
+armor_3d
 armorhotswap
 armorpointspp
 asteorbar
@@ -259,6 +260,7 @@ gpumemleakfix
 guiclock
 guicompass
 guifollowers
+hands_3d
 harvests
 healthindicators
 healthindicatortxf
@@ -364,6 +366,7 @@ moremcmeta_emissive_plugin
 moreoverlays
 mousekeyinventoryfix
 mousetweaks
+mr_toad_palladium
 musicdr
 musicmanager
 myserveriscompatible
@@ -406,6 +409,7 @@ packmenu
 panorama
 panorama_screens
 paperdoll
+particlerain
 perception
 persistentinventorysearch
 physicsmod
