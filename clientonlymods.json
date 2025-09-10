@@ -12,6 +12,7 @@
     "antighost",
     "AntiqueAtlasOverlay",
     "anviltooltipmod",
+    "armor_3d",
     "armorhotswap",
     "armorpointspp",
     "asteorbar",
@@ -261,6 +262,7 @@
     "guiclock",
     "guicompass",
     "guifollowers",
+    "hands_3d",
     "harvests",
     "healthindicators",
     "healthindicatortxf",
@@ -366,6 +368,7 @@
     "moreoverlays",
     "mousekeyinventoryfix",
     "mousetweaks",
+    "mr_toad_palladium",
     "musicdr",
     "musicmanager",
     "myserveriscompatible",
@@ -408,6 +411,7 @@
     "panorama",
     "panorama_screens",
     "paperdoll",
+    "particlerain",
     "perception",
     "persistentinventorysearch",
     "physicsmod",
@@ -544,6 +548,7 @@
     "zume"
   ]
 }
+
 
 
 
