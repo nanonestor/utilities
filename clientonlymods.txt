@@ -49,6 +49,7 @@ bettercontrols
 bettercrashes
 betterdogs_dtn
 betterf3
+betterfog
 betterfoliage
 betterfpsdist
 bettergrass
