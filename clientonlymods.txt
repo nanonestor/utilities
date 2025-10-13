@@ -243,12 +243,14 @@ flerovium
 flickerfix
 fmextension_audio
 fmextension_video
+fog
 fogtweaker
 forgeautofish
 forgematica
 forgetmechunk
 fpsoptimizer
 fpsreducer
+framework
 freecam
 freelook
 fullbrightnesstoggle
