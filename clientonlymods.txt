@@ -260,7 +260,7 @@ gamemenumodoption
 gamemenuremovegfarb
 geckoanimfix
 gpumemleakfix
-guiclock
+great_scrollable_tooltips
 guicompass
 guifollowers
 hands_3d
