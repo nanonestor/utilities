@@ -250,7 +250,6 @@ forgematica
 forgetmechunk
 fpsoptimizer
 fpsreducer
-framework
 freecam
 freelook
 fullbrightnesstoggle
