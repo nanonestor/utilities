@@ -402,6 +402,7 @@ obscure_tooltips_fix
 obsidianui
 ocrenderfix_sodium
 oculus
+ok_zoomer
 omegamute
 optcheck
 optifine
