@@ -122,8 +122,10 @@ controlify
 controllable
 controlling
 convenientchatting
+coolrain
 coordinatesdisplay
 coretweaks
+cosycritters
 craftify
 craftpresence
 crash_assistant
@@ -274,6 +276,8 @@ hiddenrecipebook
 hidehands
 highlight
 highlighter
+holdmyitems
+holdmyitemsnf
 horsestatsmod
 hytils-reborn
 ias
