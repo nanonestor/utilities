@@ -457,6 +457,7 @@ rubidium_extras
 rubidium_toolkit
 ruokmod
 ryoamiclights
+satisfying_buttons
 scoreboardtweaks
 screenshot_viewer
 screenshotclipboard
