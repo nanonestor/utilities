@@ -1,4 +1,4 @@
-a_good_place
+I'ma_good_place
 advancements_reloaded
 advancements_tracker
 advancementscreenshot
@@ -90,6 +90,7 @@ cameranoclip
 cavedust
 charmonium
 chat_heads
+chatimpressiveanimation
 chatplus
 chatstamps
 chatting
