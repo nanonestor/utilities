@@ -418,6 +418,7 @@ packmenu
 panorama
 panorama_screens
 paperdoll
+particle_effects
 particlerain
 perception
 persistentinventorysearch
