@@ -154,6 +154,7 @@ damageindicatorreborn
 DamageIndicatorsMod
 darkmodeeverywhere
 darkness
+daycounter
 deathstats
 debugkeybind
 defaultkeys
