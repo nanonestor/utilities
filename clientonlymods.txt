@@ -525,6 +525,7 @@ toadlib
 too_many_entities
 toolstats
 toolswap
+tooltipoverhaul
 tooltipscroller
 toomanykeybinds
 torchoptimizer
@@ -543,6 +544,7 @@ visuality
 voidfog
 wakes
 watermedia
+watermedia_youtube_plugin
 waveycapes
 waymaker
 whats_that_slot
