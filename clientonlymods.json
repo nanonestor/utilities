@@ -521,6 +521,7 @@
     "tlib",
     "toadlib",
     "too_many_entities",
+    "tooltipoverhaul",
     "toolstats",
     "toolswap",
     "tooltipscroller",
@@ -541,6 +542,7 @@
     "voidfog",
     "wakes",
     "watermedia",
+    "watermedia_youtube_plugin",
     "waveycapes",
     "waymaker",
     "whats_that_slot",
@@ -558,6 +560,7 @@
     "zume"
   ]
 }
+
 
 
 
