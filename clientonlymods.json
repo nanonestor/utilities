@@ -92,6 +92,7 @@
     "cavedust",
     "charmonium",
     "chat_heads",
+    "chatnotify",
     "chatplus",
     "chatstamps",
     "chatting",
@@ -240,6 +241,7 @@
     "fancymenu_video",
     "farsight_view",
     "FastCraft",
+    "fastquit",
     "fbp",
     "feytweaks",
     "figura",
@@ -290,7 +292,6 @@
     "infinitemusic",
     "infinitenightvision",
     "ingameinfoxml",
-    "inline",
     "inventoryhotswap",
     "inventoryhud",
     "inventorypause",
@@ -560,6 +561,7 @@
     "zume"
   ]
 }
+
 
 
 
