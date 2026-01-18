@@ -290,6 +290,7 @@ ias
 iknowwhatimdoing
 illuminations
 immediatelyfast
+immersivedamageindicators
 improvedsignediting
 infinitemusic
 infinitenightvision
@@ -478,6 +479,7 @@ seriousplayeranimations
 sf
 sheepconsistencyforge
 shouldersurfing
+shoulder_surfing_irons_spells_integration
 shuffle
 shulkerboxtooltip
 shulkertooltip
