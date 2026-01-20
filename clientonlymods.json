@@ -462,6 +462,7 @@
     "rgp_client",
     "rpghud",
     "rrls",
+    "rsls",
     "rubidium",
     "rubidium_extra",
     "rubidium_extras",
@@ -565,6 +566,7 @@
     "zume"
   ]
 }
+
 
 
 
