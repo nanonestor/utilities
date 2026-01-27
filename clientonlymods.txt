@@ -292,6 +292,7 @@ iknowwhatimdoing
 illuminations
 immediatelyfast
 immersivedamageindicators
+immersivetoolsweaponssounds
 improvedsignediting
 infinitemusic
 infinitenightvision
