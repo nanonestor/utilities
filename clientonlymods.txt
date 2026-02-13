@@ -190,6 +190,7 @@ dynmus
 e4mc_minecraft
 ears
 easiervillagertrading
+easy_trades
 eatinganimation
 eeriemusic
 effective_fg
@@ -211,6 +212,7 @@ enchanttips
 enchdesc
 enchsort
 endsky
+enhanced_attack_indicator
 enhanced_boss_bars
 enhancedblockentities
 entity_model_features
