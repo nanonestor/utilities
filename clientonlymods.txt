@@ -87,6 +87,7 @@ brute_force_rendering_culling
 bsvsb
 bwncr
 cameranoclip
+catchindicator
 cavedust
 charmonium
 chat_heads
@@ -359,6 +360,7 @@ matmos
 mcbindtype
 mcfetch
 mcinstanceloader
+mcquoy
 mcwifipnp
 medievalmusic
 melody
@@ -386,6 +388,7 @@ mousetweaks
 mr_toad_palladium
 musicdr
 musicmanager
+musicnotification
 myserveriscompatible
 namepain
 nbt_ac
