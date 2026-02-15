@@ -89,6 +89,7 @@
     "bsvsb",
     "bwncr",
     "cameranoclip",
+    "catchindicator",
     "cavedust",
     "charmonium",
     "chat_heads",
@@ -358,6 +359,7 @@
     "mcbindtype",
     "mcfetch",
     "mcinstanceloader",
+    "mcquoy",
     "mcwifipnp",
     "medievalmusic",
     "melody",
@@ -385,6 +387,7 @@
     "mr_toad_palladium",
     "musicdr",
     "musicmanager",
+    "musicnotification",
     "myserveriscompatible",
     "namepain",
     "nbt_ac",
@@ -569,4 +572,5 @@
     "zume"
   ]
 }
+
 
