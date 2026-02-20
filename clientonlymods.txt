@@ -3,6 +3,7 @@ advancements_reloaded
 advancements_tracker
 advancementscreenshot
 agricraftoptifinecompat
+alien_first_person
 ambientenvironment
 ambientsounds
 animatedrecipebook
