@@ -14,6 +14,7 @@ anviltooltipmod
 armor_3d
 armorhotswap
 armorpointspp
+arsnumerichud
 asteorbar
 attributetooltipfix
 audioimprovements
@@ -370,7 +371,6 @@ mightyarchitect
 mindfuldarkness
 minecraftcapes
 minemenu
-miniutilities
 mjs_animations
 mobhealthbar
 mobplaques
