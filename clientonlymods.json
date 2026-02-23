@@ -16,6 +16,7 @@
     "armor_3d",
     "armorhotswap",
     "armorpointspp",
+    "arsnumerichud",
     "asteorbar",
     "attributetooltipfix",
     "audioimprovements",
@@ -369,7 +370,6 @@
     "mindfuldarkness",
     "minecraftcapes",
     "minemenu",
-    "miniutilities",
     "mjs_animations",
     "mobhealthbar",
     "mobplaques",
@@ -573,6 +573,7 @@
     "zume"
   ]
 }
+
 
 
 
