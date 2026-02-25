@@ -273,6 +273,7 @@
     "gamemenuremovegfarb",
     "geckoanimfix",
     "giacomos_hud_conf",
+    "glowingeyes",
     "gpumemleakfix",
     "great_scrollable_tooltips",
     "guiclock",
@@ -573,6 +574,7 @@
     "zume"
   ]
 }
+
 
 
 
