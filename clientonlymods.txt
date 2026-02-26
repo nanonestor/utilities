@@ -324,6 +324,7 @@ itemzoom
 itlt
 jeargh
 jecalculation
+jecharacters
 jeed
 jeienchantmentinfo
 jumpoverfences
@@ -488,12 +489,14 @@ serilumsclientbundle
 seriousplayeranimations
 sf
 sheepconsistencyforge
+shelmarow_hud
 shouldersurfing
 shoulder_surfing_irons_spells_integration
 shuffle
 shulkerboxtooltip
 shulkertooltip
 shutupexperimentalsettings
+shut_up_gl_error
 signtools
 silentscreenshots
 simplemovablegrid
