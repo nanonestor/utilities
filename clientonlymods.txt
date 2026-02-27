@@ -57,6 +57,7 @@ betterfpsdist
 bettergrass
 BetterInvalidSession
 betterloadingscreen
+betterlockon
 bettermodsbutton
 betterpingdisplay
 bettersigns
