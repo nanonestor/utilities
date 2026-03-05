@@ -365,6 +365,7 @@ matmos
 mcbindtype
 mcfetch
 mcinstanceloader
+mcqoy
 mcquoy
 mcwifipnp
 medievalmusic
