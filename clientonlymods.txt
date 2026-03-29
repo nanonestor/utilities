@@ -553,6 +553,7 @@ totaldarkness
 toughnessbar
 tp_shooting
 tradeenchantmentdisplay
+transition
 transliterationlib
 transparent
 travelerstitles
