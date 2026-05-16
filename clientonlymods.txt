@@ -104,6 +104,7 @@ cherishedworlds
 chloride
 chunkanimator
 chunksfadein
+cinematiczoom
 citresewn
 classicbar
 cleanview
@@ -129,7 +130,6 @@ controlify
 controllable
 controlling
 convenientchatting
-coolrain
 coordinatesdisplay
 coretweaks
 cosycritters
@@ -231,7 +231,6 @@ euphoria_patcher
 evergreenhud
 exordium
 experimentalsettingsdisabler
-explosiveenhancement
 extendedclouds
 extra_keybinds
 extraextrakeybinds
@@ -435,8 +434,6 @@ packmenu
 panorama
 panorama_screens
 paperdoll
-particle_effects
-particlerain
 perception
 persistentinventorysearch
 physicsmod
@@ -524,7 +521,6 @@ sounds
 spititout
 spruceui
 sspb
-statuseffectbars
 stickykeys
 stylisheffects
 suggestionproviderfix
