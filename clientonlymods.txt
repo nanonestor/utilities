@@ -559,7 +559,6 @@ twitchintegration
 vanillazoom
 visuality
 voidfog
-wakes
 watermedia
 watermedia_youtube_plugin
 waveycapes
