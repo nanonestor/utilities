@@ -51,6 +51,7 @@ bettercontrols
 bettercrashes
 betterdogs_dtn
 betterf3
+betterf3plus
 betterfog
 betterfoliage
 betterfpsdist
